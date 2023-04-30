@@ -1,4 +1,5 @@
 {
+  "open_ai_api_base": "https://api.openai.com/v1",
   "model": "gpt-3.5-turbo",
   "single_chat_prefix": [
     ""
